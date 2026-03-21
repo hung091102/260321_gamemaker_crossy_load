@@ -20,6 +20,11 @@
   "name":"crossy_load",
   "resources":[
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"Spr_car_2","path":"sprites/Spr_car_2/Spr_car_2.yy",},},
+    {"id":{"name":"Spr_car_3","path":"sprites/Spr_car_3/Spr_car_3.yy",},},
+    {"id":{"name":"Spr_car_5","path":"sprites/Spr_car_5/Spr_car_5.yy",},},
+    {"id":{"name":"Spr_car","path":"sprites/Spr_car/Spr_car.yy",},},
+    {"id":{"name":"Spr_player","path":"sprites/Spr_player/Spr_player.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
