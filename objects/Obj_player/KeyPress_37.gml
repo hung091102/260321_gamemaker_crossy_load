@@ -1,0 +1,2 @@
+x -= 13;
+image_angle = 90;
