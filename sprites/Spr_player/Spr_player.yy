@@ -94,8 +94,13 @@
     ],
     "visibleRange":null,
     "volume":1.0,
+<<<<<<< HEAD
     "xorigin":302,
     "yorigin":293,
+=======
+    "xorigin":33,
+    "yorigin":31,
+>>>>>>> ebda1a5ab9e483ebbaef1edc7a2fa603810a4f79
   },
   "swatchColours":null,
   "swfPrecision":0.5,

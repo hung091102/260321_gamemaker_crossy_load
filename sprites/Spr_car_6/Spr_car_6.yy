@@ -22,6 +22,7 @@
     {"$GMImageLayer":"","%Name":"0c9f2664-b54f-4f53-912f-d1dd8bc82899","blendMode":0,"displayName":"default","isLocked":false,"name":"0c9f2664-b54f-4f53-912f-d1dd8bc82899","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
   "name":"Spr_car_6",
+<<<<<<< HEAD
   "nineSlice":{
     "$GMNineSliceData":"",
     "bottom":23,
@@ -42,6 +43,9 @@
     ],
     "top":124,
   },
+=======
+  "nineSlice":null,
+>>>>>>> ebda1a5ab9e483ebbaef1edc7a2fa603810a4f79
   "origin":9,
   "parent":{
     "name":"crossy_load",
@@ -94,8 +98,13 @@
     ],
     "visibleRange":null,
     "volume":1.0,
+<<<<<<< HEAD
     "xorigin":338,
     "yorigin":406,
+=======
+    "xorigin":32,
+    "yorigin":37,
+>>>>>>> ebda1a5ab9e483ebbaef1edc7a2fa603810a4f79
   },
   "swatchColours":null,
   "swfPrecision":0.5,

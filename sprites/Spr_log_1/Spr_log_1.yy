@@ -23,7 +23,11 @@
   ],
   "name":"Spr_log_1",
   "nineSlice":null,
+<<<<<<< HEAD
   "origin":9,
+=======
+  "origin":4,
+>>>>>>> ebda1a5ab9e483ebbaef1edc7a2fa603810a4f79
   "parent":{
     "name":"crossy_load",
     "path":"crossy_load.yyp",
@@ -75,8 +79,13 @@
     ],
     "visibleRange":null,
     "volume":1.0,
+<<<<<<< HEAD
     "xorigin":301,
     "yorigin":127,
+=======
+    "xorigin":39,
+    "yorigin":16,
+>>>>>>> ebda1a5ab9e483ebbaef1edc7a2fa603810a4f79
   },
   "swatchColours":null,
   "swfPrecision":0.5,
